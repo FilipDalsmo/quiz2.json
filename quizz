@@ -1,0 +1,40 @@
+[{
+    "kategori": "Digitalt Bilde",
+    "spørsmål": "Hva er hovedkomponenten i et digitalt bilde?",
+    "riktigSvar": "Piksel"
+},
+{
+    "kategori": "Digitalt Bilde",
+    "spørsmål": "Hvilket system er vanlig for fargegjenlivelse i et bilde?",
+    "riktigSvar": "RGB"
+},
+{
+    "kategori": "Digitalt Bilde",
+    "spørsmål": "Hvor mange primærfarger har vi??",
+    "riktigSvar": "3"
+},
+{
+    "kategori": "Video",
+    "spørsmål": "Hvilken komprimeringsmetode beholder kvaliteten på en video?",
+    "riktigSvar": "Run length encoding"
+},
+{
+    "kategori": "Video",
+    "spørsmål": "Hvilken komprimeringsmetode komprimerer med en JPG-algoritme?",
+    "riktigSvar": "MJPG"
+},
+{
+    "kategori": "Lyd",
+    "spørsmål": "Hva kaller vi kilden til en lydbølge?",
+    "riktigSvar": "Bølgekilde"
+},
+{
+    "kategori": "Lyd",
+    "spørsmål": "Hvilket apparat kan ta opp lyd?",
+    "riktigSvar": "Mikrofon"
+},
+{
+    "kategori": "Lyd",
+    "spørsmål": "Hva må gjøres for å lagre lyd på et digitalt apparat?",
+    "riktigSvar": "digitalisering"
+}]
